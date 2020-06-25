@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<group>
+	<outline>1</outline>
+	<wheel_spacing>1</wheel_spacing>
+	<person_spacing>1</person_spacing>
+	<lineSpacing>2</lineSpacing>
+	<letters>0</letters>
+	<strokes>14</strokes>
+	<fontFactor>0.904695</fontFactor>
+	<fudge>0</fudge>
+	<smoothed>1</smoothed>
+	<letterSpacing>3.3435</letterSpacing>
+	<smoothShape>0.574473</smoothShape>
+	<startSmoothing>100</startSmoothing>
+	<noiseRatio>0.781458</noiseRatio>
+	<noiseMin>-1</noiseMin>
+	<noiseMax>1</noiseMax>
+	<fontStart>13</fontStart>
+	<fontInc>1</fontInc>
+	<octaves>0</octaves>
+	<seed>13</seed>
+	<freq>99.7773</freq>
+	<amp>0</amp>
+	<noiseStart>8</noiseStart>
+	<noiseOut>0</noiseOut>
+	<fontScale>0</fontScale>
+	<chanceGitch>1</chanceGitch>
+</group>

@@ -1,0 +1,6 @@
+ofxClipper
+ofxConvexHull
+ofxGui
+ofxMSAPerlin
+ofxSvg
+ofxSweepLine
